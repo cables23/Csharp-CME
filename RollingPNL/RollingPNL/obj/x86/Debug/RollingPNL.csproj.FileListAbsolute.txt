@@ -1,0 +1,11 @@
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\bin\Debug\RollingPNL.exe
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\bin\Debug\RollingPNL.pdb
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.csprojResolveAssemblyReference.cache
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.RollingPNL.resources
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.Properties.Resources.resources
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.csproj.GenerateResource.Cache
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.exe
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.pdb
+C:\Users\TRADER\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.Form2.resources
+C:\Users\Leo\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.exe
+C:\Users\Leo\Dropbox\code\code\RollingPNL\RollingPNL\obj\x86\Debug\RollingPNL.pdb
